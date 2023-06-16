@@ -1,4 +1,4 @@
-# Conexão com duas API externas da Abstract API
+# Conexão com duas APIs externas da Abstract API
 
 ## Holidays "get /holidays"
 
