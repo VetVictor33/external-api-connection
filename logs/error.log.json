@@ -1,0 +1,20 @@
+{
+    "domainsApiErrors": [
+        {
+            "date": "2023-06-16T21:46:47.614Z",
+            "data": {
+                "statusCode": 400,
+                "statusMessage": "Bad Request"
+            }
+        }
+    ],
+    "holidaysApiErrors": [
+        {
+            "date": "2023-06-16T21:50:34.989Z",
+            "data": {
+                "statusCode": 402,
+                "statusMessage": "Payment Required"
+            }
+        }
+    ]
+}

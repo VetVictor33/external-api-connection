@@ -1,0 +1,91 @@
+{
+    "domainsApi": [
+        {
+            "date": "2023-06-16T21:31:27.456Z",
+            "data": {
+                "name": "Google",
+                "domain": "google.com",
+                "year_founded": 1998,
+                "industry": "Internet",
+                "employees_count": 219238,
+                "locality": "Mountain View",
+                "country": "United States",
+                "linkedin_url": "linkedin.com/company/google"
+            }
+        },
+        {
+            "date": "2023-06-16T21:32:52.526Z",
+            "data": {
+                "name": "Facebook",
+                "domain": "facebook.com",
+                "year_founded": 2004,
+                "industry": "Internet",
+                "employees_count": 77517,
+                "locality": "Menlo Park",
+                "country": "United States",
+                "linkedin_url": "linkedin.com/company/facebook"
+            }
+        },
+        {
+            "date": "2023-06-16T21:33:01.262Z",
+            "data": {
+                "name": "Youtube",
+                "domain": "youtube.com",
+                "year_founded": 2005,
+                "industry": "Internet",
+                "employees_count": 84594,
+                "locality": "San Bruno",
+                "country": "United States",
+                "linkedin_url": "linkedin.com/company/youtube"
+            }
+        },
+        {
+            "date": "2023-06-16T21:35:03.220Z",
+            "data": {
+                "name": "Worcester Telegram & Gazette",
+                "domain": "telegram.com",
+                "year_founded": 1866,
+                "industry": "Newspapers",
+                "employees_count": 157,
+                "locality": "Worcester",
+                "country": "United States",
+                "linkedin_url": "linkedin.com/company/worcester-telegram-&-gazette"
+            }
+        }
+    ],
+    "holidaysApi": [
+        {
+            "date": "2023-06-16T21:49:23.605Z",
+            "data": [
+                {
+                    "name": "Independence Day",
+                    "name_local": "",
+                    "language": "",
+                    "description": "",
+                    "country": "BR",
+                    "location": "Brazil",
+                    "type": "National",
+                    "date": "09/07/2020",
+                    "date_year": "2020",
+                    "date_month": "09",
+                    "date_day": "07",
+                    "week_day": "Monday"
+                },
+                {
+                    "name": "September Equinox",
+                    "name_local": "",
+                    "language": "",
+                    "description": "",
+                    "country": "BR",
+                    "location": "Brazil",
+                    "type": "Seasonal",
+                    "date": "09/22/2020",
+                    "date_year": "2020",
+                    "date_month": "09",
+                    "date_day": "22",
+                    "week_day": "Tuesday"
+                }
+            ]
+        }
+    ]
+}
